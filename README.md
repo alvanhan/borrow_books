@@ -84,3 +84,18 @@ setelah itu akan running di port : http://localhost:5173/ dan kunjungi website n
     Informasi Relasi table.
     USER belongsto BORROW dAN BORROW hasmany to BOOKS
 #
+
+
+
+### PREVIEW :
+
+#
+<img src="https://i.ibb.co/PFQW7kL/Untitled.jpg" alt="Untitled" border="0">
+
+#
+
+<img src="https://i.ibb.co/pnmFq77/Untitled.jpg" alt="Untitled" border="0">
+
+#
+
+<img src="https://i.ibb.co/frppdSy/Untitled.jpg" alt="Untitled" border="0">
