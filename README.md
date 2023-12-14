@@ -19,6 +19,7 @@ generate key nya
 ```sh
 php artisan key:generate
 ```
+pastikan .env telah di configurasi untuk database local nya 
 
 install auth untuk passport , karena api saya mengintegrasikanya dengan passport
 ```sh
@@ -30,7 +31,7 @@ run migration dan seeder untuk table , (database MYSQL)
 php artisan migrate --seed
 ```
 
-run local api nya dan akan di redirect dengan url : http://127.0.0.1:8000
+run local api nya dan pastikan dengan url : http://127.0.0.1:8000
 ```sh
 php artisan serve
 ```
